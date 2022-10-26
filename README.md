@@ -5,9 +5,9 @@ This is a simple Object Pooling system for Unity.
 </p>
 <p>
 Credit to Moe Baker for UDictionary making dictionaries Serializeable (Visible to the inspector). <br>
-[GitHub](https://github.com/Moe-Baker), <br>
-[GitHub Gist](https://gist.github.com/Moe-Baker), <br>
-[Reddit](https://www.reddit.com/user/Moe_Baker), <br>
+<a href="https://github.com/Moe-Baker">GitHub</a>, <br>
+<a href="https://gist.github.com/Moe-Baker">GitHub Gist</a>, <br>
+<a href="https://www.reddit.com/user/Moe_Baker">Reddit</a>, <br>
 </p>
 
 <p>
